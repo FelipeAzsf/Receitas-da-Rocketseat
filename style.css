@@ -1,0 +1,36 @@
+*{
+    margin:0px;
+    width: auto;
+    box-sizing: border-box;
+}
+
+
+.container{
+
+    position:absolute;
+    left:20%;
+    top:10px;
+    width:1000px;
+    height: auto;
+    background-color: antiquewhite;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+.tmhft{
+    width: auto;
+    height: 635px;
+    border-radius: 30px;
+}
+
+.contdo{
+    margin: 5px;
+    padding: 5px;
+    background-color: aliceblue;
+    border-radius: 5px;
+}
+
+.iconfooter{
+    width: 15px;
+    height: 15px;
+}
